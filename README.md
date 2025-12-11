@@ -7,9 +7,9 @@ Aplikasi desktop sederhana berbasis Java Swing untuk simulasi pemesanan tiket bi
 ## 👥 Anggota Kelompok 3
 | NIM | Nama | Peran |
 | :--- | :--- | :--- |
-| **[NIM MIKAIL]** | **Muhammad Mikail Alfasya** | **Ketua** - GUI Design & Main Integration |
-| [NIM FATHIA] | Fathia Artha Utami | Backend Logic (OOP Core) |
-| [NIM AFLIANA] | Afliana Amanda | Error Handling & Testing |
+| **[1324061]** | **Muhammad Mikail Alfasya** | **Ketua** - GUI Design & Main Integration |
+| [1324036] | Fathia Artha Utami | Backend Logic (OOP Core) |
+| [1324051] | Afliana Amanda | Error Handling & Testing |
 
 ## ✨ Fitur Utama
 1.  **Pemilihan Film:** Menggunakan `JComboBox` untuk memilih film yang sedang tayang.
@@ -32,7 +32,7 @@ Pastikan Java Development Kit (JDK) sudah terinstall.
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[USERNAME_MIKAIL]/tubes-oop-java-kelompok3.git
+    git clone [https://github.com/](https://github.com/)Mikail79/tubes-oop-java-kelompok3.git
     ```
 2.  **Masuk ke Folder:**
     ```bash
