@@ -112,16 +112,6 @@ java -cp src AplikasiBioskop
 
 ---
 
-## 📸 Screenshots
-
-> *(Tambahkan screenshot aplikasi di sini)*
-
-* **Login Page** – Tampilan login elegan
-* **Movie Selection** – Carousel film interaktif
-* **Seat Booking** – Denah kursi bioskop
-* **Receipt** – Struk digital pembayaran
-
----
 
 ## 👥 Anggota Kelompok 3
 
@@ -133,20 +123,5 @@ Proyek ini disusun untuk memenuhi tugas mata kuliah **Pemrograman Berorientasi O
 
 ---
 
-## 💡 Tips Tambahan
-
-1. File `README.md` ini akan otomatis tampil sebagai halaman utama repositori GitHub.
-2. Bagian **Screenshots** sangat disarankan untuk memperkuat presentasi proyek.
-3. Gunakan gambar hasil screenshot aplikasi dan simpan di folder `resources` atau `docs`.
-
----
-
 © 2025 **Kelompok 3** – Politeknik STMI Jakarta
 
-```
-
-Kalau mau, aku juga bisa:
-- Menyesuaikan README ke **bahasa Inggris**
-- Menambahkan **diagram OOP (UML)**
-- Merapikan README agar **siap submit ke dosen / GitHub publik**
-```
